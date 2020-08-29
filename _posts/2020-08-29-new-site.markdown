@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New site"
+date:   2020-08-29 19:53:08 +0200
+categories: ~
+---
+After many years of running a skeleton website on Google App Engine, I decided to move to something that is not a festival of overly complicated UIs, bugs and deprecation. I was probably one of the last people having the free tier, so I'm sure somebody at Google will be happy to see that that thing is getting closer to being discontinued. They even gently nudged me towards not using it anymore, by making the old app no longer downloadable.
+
+This website is using [Jekill](https://jekyllrb.com/). The label on it says it's easy to use, so let's see how this goes.
