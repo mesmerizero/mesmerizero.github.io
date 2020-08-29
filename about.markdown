@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about-me/
 ---
-This is me, according to LinkedIn.
 
 Web applications development professional.
 
