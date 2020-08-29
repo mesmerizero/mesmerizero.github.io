@@ -31,7 +31,7 @@ linkedin_username: alinpurcaru
 stackoverflow_username: "321468"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
