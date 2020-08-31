@@ -4,7 +4,7 @@ title:  "Running Windows and Linux on the same machine"
 date:   2020-08-31 00:00:00 +0200
 categories: ~
 ---
-For over ten years I've been happily using Windows for personal needs and Linux for work. I find Windows, especially recently, perfect for gaming, media and browser based usage. And as a software engineer doing mostly backend the OS of choice must be Linux. This strict segregation based on usage has worked okish for me most of the time, since I tend not to mix work and personal life too much. Still, there have been some odd cases where I wished I could have both OSes usable interchangeably. From time to time I take on some contract work, or start a hobby project.
+For over ten years I've been happily using Windows for personal needs and Linux for work. I find Windows perfect for gaming, media and browser based usage. And as a software engineer doing mostly backend the OS of choice must be Linux. This strict segregation based on usage has worked ok-ish for me most of the time, since I tend not to mix work and personal life too much. Still, there have been some odd cases where I wished I could have both OSes usable interchangeably. From time to time I take on some contract work, or start a hobby project.
 
 Maybe the obvious solution to my longing would be to jump on the Apple bandwagon, but first of all I'd avoid needlessly spending thousands of euros on shiny hardware, and second I really dislike, on principle, how aggressively Apple are trying to get users locked into their ecosystem. So it's just Windows and Linux for me. I'd switch fully to Linux if I could, but sadly Ubuntu did not really deliver on the usability front to make me abandon Windows.
 
