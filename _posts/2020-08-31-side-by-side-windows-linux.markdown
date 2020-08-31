@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Running Windows and Linux on the same machine"
-date:   2020-08-31 12:00:00 +0200
+date:   2020-08-31 00:00:00 +0200
 categories: ~
 ---
 For over ten years I've been happily using Windows for personal needs and Linux for work. I find Windows, especially recently, perfect for gaming, media and browser based usage. And as a software engineer doing mostly backend the OS of choice must be Linux. This strict segregation based on usage has worked okish for me most of the time, since I tend not to mix work and personal life too much. Still, there have been some odd cases where I wished I could have both OSes usable interchangeably. From time to time I take on some contract work, or start a hobby project.
@@ -30,7 +30,7 @@ Apparently since a couple of years Microsoft started to show some real developer
 
 It's fairly easy actually. First check that you are on a supported version of Windows. This is a relatively new feature.
 
-Then enable the 'Virtual Machine Platform' optional component and set WSL 2 as your default version. Microsoft has been kind enough to document all these steps. But you can also just go to Windows Features and tick the Windows Subsystem for Linux checkbox. A restart will be needed.
+Then enable the 'Virtual Machine Platform' optional component and set WSL 2 as your default version. Microsoft has been kind enough to [document](https://docs.microsoft.com/en-us/windows/wsl/install-win10) all these steps. But you can also just go to Windows Features and tick the Windows Subsystem for Linux checkbox. A restart will be needed.
 
 ![Check the WSL box](/assets/wsl2/wsl-box.png)
 
@@ -91,7 +91,7 @@ explorer.exe .
 
 And with this comes the last piece of the puzzle: the IDE. Since the Linux files are visible to Windows, it means you can use am IDE on Windows. I added PyCharm for that. It mostly works and it even has some integration with WSL, but sadly only in the Professional version.
 
-One important thing to remember is that your project folder should be under the Linux filesystem for faster performance. Having it anywhere will work, as I did before reading the disclaimer, but it's considerably slower.
+One important thing to remember is that your project folder should be under the Linux filesystem for faster performance. Having it anywhere will work, as I did before reading the [disclaimer](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#use-the-linux-file-system-for-faster-performance), but it's considerably slower.
 
 ## Conclusion
 
