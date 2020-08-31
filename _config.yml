@@ -33,6 +33,8 @@ stackoverflow_username: "321468"
 disqus:
   shortname: alin-purcaru
 
+google_analytics: "UA-176824105-1"
+
 # Build settings
 theme: minima
 plugins:
