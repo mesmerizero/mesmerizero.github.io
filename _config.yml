@@ -30,6 +30,8 @@ twitter_username: AlinPurcaru
 github_username:  mesmerizero
 linkedin_username: alinpurcaru
 stackoverflow_username: "321468"
+disqus:
+  shortname: alin-purcaru
 
 # Build settings
 theme: minima
