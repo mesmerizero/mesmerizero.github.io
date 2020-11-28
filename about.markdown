@@ -22,31 +22,45 @@ Courage » I support correct opinions, even when controversial, and prioritize i
 
 # Work Experience
 
-August 2018 onward » Chief Software Engineer - ottonova, Munich
+#### August 2018 onward » Chief Software Engineer - ottonova, Munich
 
 I implement business critical features in the PHP backend, deliver performance improvements, refactor extensively, recruit and onboard new team members.
 I provide and document solutions for new implementations, identify and plan strategic updates to the system. 
 I develop tools and processes for doing architecture and coordinate the Architecture Chapter.
 
-August 2017 - July 2018 » Senior Software Engineer - diva-e (intelliAd), Munich
+#### August 2017 - July 2018 » Senior Software Engineer - diva-e (intelliAd), Munich
 
-January 2017 - July 2017 » Senior Backend Developer - MRM Commerce (Optaros), Bucharest
+I architected and implemented the web app for the company's newest product, and onboarded new team member to scale the development.
 
-November 2015 - October 2016 » Software Development Manager - enabley (Time To Know), Bucharest
+#### January 2017 - July 2017 » Senior Backend Developer - MRM Commerce (Optaros), Bucharest
 
-June 2011 - November 2015 » Software Architect - IONOS (1&1 Internet), Bucharest
+I worked on perfomance improvements and integrations for the company's most important project. I helped with the pitch for a pottential new client.
 
-February 2011 - June 2011 » Senior Programmer - Gameloft, Bucharest
+#### November 2015 - October 2016 » Software Development Manager - enabley (Time To Know), Bucharest
 
-April 2010 - February 2011 » R&D Engineer - Extend Studio, Bucharest
+I led a cross-functional team of six egineers from its formation with brand new people, through knowledge aquisition and gradual transfer of the engineering responsibilities for half of the company's product portofolio.
 
-March 2008 - February 2010 » Full-stack Programmer - dcs plus, Bucharest
+#### June 2011 - November 2015 » Software Architect - IONOS (1&1 Internet), Bucharest
 
-January 2007 - March 2008 » Freelance Web Developer
+I worked on the front-end development and modernisation of the company's successful website builder product. 
+I provided technical solutions, negociated interfaces with other teams, and planned work for a team of about ten engineers. 
+I worked closely with product owners for designing new features and new products, and provided technical input for department roadmap planning. 
+
+#### February 2011 - June 2011 » Senior Programmer - Gameloft, Bucharest
+
+I worked on the shared backend used by all the games. I implemented an abstraction to allow integrating browser games both in Facebook and in the multitude of OpenSocial platforms popular at the time.
+
+#### April 2010 - February 2011 » R&D Engineer - Extend Studio, Bucharest
+
+I researched solutions based on web standards to allow the creation of cross-browser correct layouts and designs. I implemented Adobe Flex applications and integrated them into Dreamweaver.
+
+#### March 2008 - February 2010 » Full-stack Programmer - dcs plus, Bucharest
+
+I worked on a B2B2C hotel reservation solution doing full-stack developement. I integrated more than ten inventory providers, each with different types of pre-REST APIs.
 
 # Education
 
-2007 - 2011 » BSc. Mathematics - University of Bucharest
+#### 2007 - 2011 » BSc. Mathematics - University of Bucharest
 
 # Skills
 
