@@ -24,6 +24,10 @@ Courage » I support correct opinions, even when controversial, and prioritize i
 
 August 2018 onward » Chief Software Engineer - ottonova, Munich
 
+I implement business critical features in the PHP backend, deliver performance improvements, refactor extensively, recruit and onboard new team members.
+I provide and document solutions for new implementations, identify and plan strategic updates to the system. 
+I develop tools and processes for doing architecture and coordinate the Architecture Chapter.
+
 August 2017 - July 2018 » Senior Software Engineer - diva-e (intelliAd), Munich
 
 January 2017 - July 2017 » Senior Backend Developer - MRM Commerce (Optaros), Bucharest
