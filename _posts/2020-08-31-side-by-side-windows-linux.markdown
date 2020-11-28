@@ -7,7 +7,7 @@ categories: ~
 ---
 For over ten years I've been happily using Windows for personal needs and Linux for work. I find Windows perfect for gaming, media and browser based usage. And as a software engineer doing mostly backend the OS of choice must be Linux. This strict segregation based on usage has worked ok-ish for me most of the time, since I tend not to mix work and personal life too much. Still, there have been some odd cases where I wished I could have both OSes usable interchangeably. From time to time I take on some contract work, or start a hobby project.
 
-Maybe the obvious solution to my longing would be to jump on the Apple bandwagon, but first of all I'd avoid needlessly spending thousands of euros on shiny hardware, and second I really dislike, on principle, how aggressively Apple are trying to get users locked into their ecosystem. So it's just Windows and Linux for me. I'd switch fully to Linux if I could, but sadly Ubuntu did not really deliver on the usability front to make me abandon Windows.
+Maybe the obvious solution to my longing would be to jump on the Apple bandwagon, but first of all I'd avoid needlessly spending thousands of euros on shiny hardware, and second I really dislike, on principle, how aggressively Apple is trying to get users locked into their ecosystem. So it's just Windows and Linux for me. I'd switch fully to Linux if I could, but sadly Ubuntu did not really deliver on the usability front to make me abandon Windows.
 
 Now let's see if we can get my problem properly defined. I'd want to be able to use both Windows and Linux with the following conditions:
 - both must run on the same machine
@@ -90,7 +90,7 @@ cd ~
 explorer.exe .
 {% endhighlight %}
 
-And with this comes the last piece of the puzzle: the IDE. Since the Linux files are visible to Windows, it means you can use am IDE on Windows. I added PyCharm for that. It mostly works and it even has some integration with WSL, but sadly only in the Professional version.
+And with this comes the last piece of the puzzle: the IDE. Since the Linux files are visible to Windows, it means you can use am IDE on Windows. I added PyCharm for that. It mostly works and it even has some integration with WSL, but only in the Professional version.
 
 One important thing to remember is that your project folder should be under the Linux filesystem for faster performance. Having it anywhere will work, as I did before reading the [disclaimer](https://docs.microsoft.com/en-us/windows/wsl/compare-versions#use-the-linux-file-system-for-faster-performance), but it's considerably slower.
 
