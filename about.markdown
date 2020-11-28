@@ -42,7 +42,7 @@ I worked on performance improvements and integrations for the company's most imp
 #### Software Development Manager - enabley (Time To Know) 
 ##### November 2015 to October 2016 - Bucharest (with Israel) - Education
 
-I led a cross-functional team of six engineers from its formation with brand new people, through knowledge aquisition and gradual transfer of the engineering responsibilities for half of the company's product portofolio.
+I led a cross-functional team of six engineers from its formation with brand new people, through knowledge acquisition and gradual transfer of the engineering responsibilities for half of the company's product portfolio.
 
 #### Software Architect - IONOS (1&1 Internet)
 ##### June 2011 to November 2015 - Bucharest (with Germany) - Internet
