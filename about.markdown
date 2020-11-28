@@ -32,7 +32,7 @@ I develop tools and processes for doing architecture and coordinate the Architec
 ####  Senior Software Engineer - diva-e (intelliAd)
 ##### August 2017 to July 2018 - Munich - Advertising
 
-I architected and implemented the web app for the company's newest product, and on-boarded new team member to scale the development.
+I architected and implemented the web app for the company's newest product, and on-boarded new team members to scale the development.
 
 #### Senior Backend Developer - MRM Commerce (Optaros)
 ##### January 2017 to July 2017 - Bucharest (with USA) - Agency
