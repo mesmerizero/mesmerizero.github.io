@@ -20,47 +20,62 @@ Transparency » I make results available to everyone and proactively propagate u
 
 Courage » I support correct opinions, even when controversial, and prioritize impactful work.
 
-# Work Experience
+# Professional Journey
 
-#### August 2018 onward » Chief Software Engineer - ottonova, Munich
+#### Chief Software Engineer - ottonova
+##### August 2018 onward - Munich - Health Insurance
 
-I implement business critical features in the PHP backend, deliver performance improvements, refactor extensively, recruit and onboard new team members.
+I implement business critical features in the PHP backend, deliver performance improvements, refactor extensively, recruit and on-board new team members.
 I provide and document solutions for new implementations, identify and plan strategic updates to the system. 
 I develop tools and processes for doing architecture and coordinate the Architecture Chapter.
 
-#### August 2017 - July 2018 » Senior Software Engineer - diva-e (intelliAd), Munich
+####  Senior Software Engineer - diva-e (intelliAd)
+##### August 2017 to July 2018 - Munich - Advertising
 
-I architected and implemented the web app for the company's newest product, and onboarded new team member to scale the development.
+I architected and implemented the web app for the company's newest product, and on-boarded new team member to scale the development.
 
-#### January 2017 - July 2017 » Senior Backend Developer - MRM Commerce (Optaros), Bucharest
+#### Senior Backend Developer - MRM Commerce (Optaros)
+##### January 2017 to July 2017 - Bucharest (with USA) - Agency
 
-I worked on perfomance improvements and integrations for the company's most important project. I helped with the pitch for a pottential new client.
+I worked on performance improvements and integrations for the company's most important project. I helped with the pitch for a potential new client.
 
-#### November 2015 - October 2016 » Software Development Manager - enabley (Time To Know), Bucharest
+#### Software Development Manager - enabley (Time To Know) 
+##### November 2015 to October 2016 - Bucharest (with Israel) - Education
 
-I led a cross-functional team of six egineers from its formation with brand new people, through knowledge aquisition and gradual transfer of the engineering responsibilities for half of the company's product portofolio.
+I led a cross-functional team of six engineers from its formation with brand new people, through knowledge aquisition and gradual transfer of the engineering responsibilities for half of the company's product portofolio.
 
-#### June 2011 - November 2015 » Software Architect - IONOS (1&1 Internet), Bucharest
+#### Software Architect - IONOS (1&1 Internet)
+##### June 2011 to November 2015 - Bucharest (with Germany) - Internet
 
 I worked on the front-end development and modernisation of the company's successful website builder product. 
-I provided technical solutions, negociated interfaces with other teams, and planned work for a team of about ten engineers. 
+I provided technical solutions, negotiated interfaces with other teams, and planned work for a team of about ten engineers. 
 I worked closely with product owners for designing new features and new products, and provided technical input for department roadmap planning. 
 
-#### February 2011 - June 2011 » Senior Programmer - Gameloft, Bucharest
+####  Senior Programmer - Gameloft
+##### February 2011 to June 2011 - Bucharest (with World) - Gaming  
 
 I worked on the shared backend used by all the games. I implemented an abstraction to allow integrating browser games both in Facebook and in the multitude of OpenSocial platforms popular at the time.
 
-#### April 2010 - February 2011 » R&D Engineer - Extend Studio, Bucharest
+#### R&D Engineer - Extend Studio
+##### April 2010 to February 2011 - Bucharest - Internet
 
 I researched solutions based on web standards to allow the creation of cross-browser correct layouts and designs. I implemented Adobe Flex applications and integrated them into Dreamweaver.
 
-#### March 2008 - February 2010 » Full-stack Programmer - dcs plus, Bucharest
+#### Full-stack Programmer - dcs plus, 
+##### March 2008 to February 2010 - Bucharest - Travel
 
-I worked on a B2B2C hotel reservation solution doing full-stack developement. I integrated more than ten inventory providers, each with different types of pre-REST APIs.
+I worked on a B2B2C hotel reservation solution doing full-stack development. I integrated more than ten inventory providers, each with different types of pre-REST APIs.
 
 # Education
 
-#### 2007 - 2011 » BSc. Mathematics - University of Bucharest
+####  BSc. in Mathematics - University of Bucharest
+##### 2007 to 2011 - Bucharest
+
+Attended courses in Mathematics and Computer Science.
+
+#### IMO Training
+
+Preparatory training for international competitions with Romania's extended team.
 
 # Skills
 
@@ -70,7 +85,7 @@ Programming Languages » PHP, JavaScript, SQL, HTML, CSS, Python, Go, Ruby, Java
 
 Frameworks » Symfony, Laravel, Zend Framework, Angular, React, Vue
 
-Testing » PHPUnit, Behat, Karma, Jasmine Selenium
+Testing » PHPUnit, Behat, Karma, Jasmine, Selenium
 
 Web » nginx, Apache, nodejs, HTTP
 
@@ -82,4 +97,10 @@ DevOps » Jenkins, Gitlab(CI), Docker, bash, Linux/Debian
 
 Delivery » Agile, Scrum, Kanban, planning tools, branching strategies
 
-...and many other
+# Languages
+
+English - Full professional proficiency 
+
+German - Limited working proficiency (B2+)
+
+Romanian - Native 
